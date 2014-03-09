@@ -6,7 +6,8 @@
 
 Rasterio is a GDAL and Numpy-based Python library designed to make your work
 with geospatial raster data more productive, more fun — more Zen. It’s a new
-open source project from the satellite team at Mapbox.
+open source project from the satellite team at Mapbox:
+http://github.com/mapbox/rasterio.
 
 ## Detailed Abstract
 
