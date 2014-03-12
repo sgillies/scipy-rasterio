@@ -13,10 +13,9 @@ Mapbox and is informed by a decade of experience using Python and GDAL.
 
 (Public if proposal is accepted)
 
-Rasterio is a GDAL and Numpy-based Python library written to make work with
-geospatial raster data more productive, more fun — more Zen of Python. Its
-design embodies lessons learned over a decade of using GDAL and Python to solve
-geospatial problems.
+Rasterio is a GDAL and Numpy-based Python library guided by lessons learned over
+a decade of using GDAL and Python to solve geospatial problems. It increases
+efficiency when working with geospacial raster data, and is more fun.
 
 I will discuss the motivation for writing Rasterio and explain how and why it
 diverges from other GIS software and embraces Python types, protocols, and
