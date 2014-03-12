@@ -1,4 +1,4 @@
-# Rasterio: Geospatial Raster Data Access for Python Programmers
+# Rasterio: Geospatial Raster Data Access for Programmers and Future Programmers
 
 ## Brief Description
 
@@ -19,8 +19,8 @@ these lessons: the importance of productivity, enjoyability, and serendipity.
 
 I will discuss the motivation for writing Rasterio and explain how and why it
 diverges from other GIS software and embraces Python types, protocols, and
-idioms.  I will also explain why Rasterio adheres to some GIS paradigms and
-bends or breaks others.
+idioms. I will also explain why Rasterio adheres to some GIS paradigms and
+bends or breaks others. 
 
 Finally, I will show examples of using Rasterio to read, manipulate, and write
 georeferenced raster data. Some examples will be familiar to users of older
@@ -34,8 +34,13 @@ of Rasterio not found in other geospatial libraries.
 
 The Rasterio home page: https://github.com/mapbox/rasterio.
 
-Rasterio has more mature and widely used siblings: Shapely and Fiona. I plan to 
+Rasterio has more mature and widely used siblings: Shapely and Fiona. I plan to
 mention these and briefly show how they integrate with Rasterio.
 
 Along with slides, I will make the examples in my talk available as an IPython
 notebook.
+
+The "for programmers and future programmers" phrase in the title is my short
+way of saying that I am trying, through Rasterio/Fiona/Shapely, to teach GIS
+analysts who are not yet experienced programmers how to use the Python language
+to its fullest.
